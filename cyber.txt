@@ -1,0 +1,85 @@
+That's a solid mindset, Sherwin — doing an internship **and** building side projects is one of the best ways to **grow fast** and get noticed 🔥
+
+Here’s a **custom learning + side-project plan** made just for your situation 👇
+
+---
+
+## 🧠 **How to Learn Cybersecurity Effectively (While on Internship)**
+
+### 🎯 Goal:
+
+* Learn practical cybersecurity skills
+* Build small but powerful projects
+* Keep your momentum without burning out
+
+---
+
+### ✅ **Weekly Strategy (Balanced & Sustainable)**
+
+| Days             | What to Do                                       | Time Needed             |
+| ---------------- | ------------------------------------------------ | ----------------------- |
+| 🧠 Mon–Thu       | Internship work                                  | full-time (as required) |
+| 🛠 Fri (evening) | Learn 1 new cybersecurity topic                  | 1–2 hrs                 |
+| 🚀 Sat           | Build mini side project / script                 | 2–3 hrs                 |
+| 🔍 Sun           | Try a tool (Wireshark, Burp), fix bugs, document | 1–2 hrs                 |
+
+> 🔁 Repeat weekly → you’ll build a portfolio in 4–6 weeks
+
+---
+
+## 🧰 What You Should Learn (in Order):
+
+| Priority | Topic                             | Why It’s Useful                | Learn via                     |
+| -------- | --------------------------------- | ------------------------------ | ----------------------------- |
+| ✅ 1      | **Encryption** (done!)            | Core of data security          | YouTube + Python              |
+| ✅ 2      | **Authentication Systems**        | Real-world login, user roles   | Flask/Django or basic scripts |
+| 🔐 3     | **Web Attacks (XSS, SQLi, CSRF)** | Real ethical hacking basics    | TryHackMe / PortSwigger       |
+| 📡 4     | **Sniffing & Network Security**   | How data is stolen             | Wireshark (real-world tool)   |
+| 🔐 5     | **Secure APIs**                   | Backends often get hacked here | Postman + JWT                 |
+| 🧱 6     | **Blockchain + Logs**             | Show off next-gen audit tools  | Solidity + Remix              |
+| 💾 7     | **Malware Analysis / Hashing**    | Forensics, reverse engineering | Only if you're interested     |
+
+---
+
+## 💡 Side Project Ideas You Can Build Alongside:
+
+| Project Idea                                         | Skill You’ll Practice              |
+| ---------------------------------------------------- | ---------------------------------- |
+| ✅ Medical data encryption app                        | Encryption, access control         |
+| 🔑 Login system with Flask                           | Authentication, web security       |
+| 📡 Wireshark demo + encrypted vs unencrypted traffic | Network sniffing                   |
+| 🔒 File locker tool in Python                        | Password protection, hashing       |
+| 📜 Blockchain-based access logger                    | Solidity + logging smart contracts |
+| 🕵️‍♂️ Build & break a dummy vulnerable site         | Ethical hacking (XSS/SQLi)         |
+
+---
+
+## 🔁 Learning Resources (Best for Intern + Project Balance)
+
+| Type         | Resource                                     | Why                                    |
+| ------------ | -------------------------------------------- | -------------------------------------- |
+| 📹 YouTube   | NetworkChuck, The Cyber Mentor, John Hammond | Beginner-friendly and practical        |
+| 📚 Platform  | [TryHackMe](https://tryhackme.com/)          | Hands-on hacking labs with guides      |
+| 💻 Practice  | HackTheBox (beginner section)                | Good if you're into real hacking       |
+| 📘 Reference | OWASP Top 10 (owasp.org)                     | Must-know attacks for any security pro |
+| 📖 Book      | *“Black Hat Python”*                         | Practical offensive scripting          |
+
+---
+
+### 🔥 Final Tips:
+
+* 🚀 **Start small, but finish each thing** – even a 1-hour script/project counts
+* 📓 Keep a **log of everything you try** – helpful for resume, reports, or LinkedIn posts
+* 🎯 Focus on **real-world skills** not theory — what tools are used in companies?
+* 🧑‍💻 Post even small wins online → shows you're active and growing
+* ⏳ Don’t compare speed with others — **consistency wins**
+
+---
+
+Want me to:
+
+* Track your weekly progress?
+* Help you create a GitHub profile with your projects?
+* Set up a private “project list” for next 4 weeks?
+
+Let me know your pace, and I’ll walk with you step-by-step.

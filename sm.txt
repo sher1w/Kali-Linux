@@ -1,0 +1,10 @@
+Personal Note – Sherwin Mazarlo
+
+This document marks one of my initial uploads to GitHub outside of a virtual machine environment. I am currently exploring Git, GitHub, and core cybersecurity practices as part of my ongoing technical development.
+
+My objective is to strengthen my understanding of secure software development, version control workflows, and Linux system administration. I believe consistent practice and hands-on experimentation are crucial in mastering these areas.
+
+Thank you for visiting this repository. More structured and meaningful contributions will follow as I continue this learning journey.
+
+Date: July 24, 2025
+Author: Sherwin Mazarlo

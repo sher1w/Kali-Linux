@@ -1,0 +1,9 @@
+
+Pinging grower-uat.thl.group [31.221.10.168] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 31.221.10.168:
+    Packets: Sent = 4, Received
